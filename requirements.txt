@@ -1,9 +1,9 @@
-
-
 Flask
 scikit-learn
 pandas
 matplotlib
 numpy
-
+mlflow
+seaborn
+warnings
 

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/kotesh%20Reddy/Desktop/mlops/projects/end_to_end_water_potable/water-potability-end-to-end-project/mlruns/0/f1d8ebea56434755b4eb285c55b02d63/artifacts
+end_time: 1713083660041
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1d8ebea56434755b4eb285c55b02d63
+run_name: honorable-rook-114
+run_uuid: f1d8ebea56434755b4eb285c55b02d63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713083548930
+status: 3
+tags: []
+user_id: kotesh Reddy

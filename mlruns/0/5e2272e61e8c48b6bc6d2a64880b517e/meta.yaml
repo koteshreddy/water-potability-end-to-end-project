@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/kotesh%20Reddy/Desktop/mlops/projects/end_to_end_water_potable/water-potability-end-to-end-project/mlruns/0/5e2272e61e8c48b6bc6d2a64880b517e/artifacts
+end_time: 1713083546168
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e2272e61e8c48b6bc6d2a64880b517e
+run_name: chill-eel-787
+run_uuid: 5e2272e61e8c48b6bc6d2a64880b517e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713083513554
+status: 3
+tags: []
+user_id: kotesh Reddy

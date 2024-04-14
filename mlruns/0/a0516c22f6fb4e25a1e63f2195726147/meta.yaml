@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/kotesh%20Reddy/Desktop/mlops/projects/end_to_end_water_potable/water-potability-end-to-end-project/mlruns/0/a0516c22f6fb4e25a1e63f2195726147/artifacts
+end_time: 1713083547790
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0516c22f6fb4e25a1e63f2195726147
+run_name: youthful-mouse-183
+run_uuid: a0516c22f6fb4e25a1e63f2195726147
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713083546192
+status: 3
+tags: []
+user_id: kotesh Reddy
