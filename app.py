@@ -32,6 +32,19 @@ def predict_api():
     return json_string
 
 
+@app.route('/predict',methods=['POST'])
+def predict():
+    data=[float(x) for x in request.form.values()]
+    final_input=scaled.transform(np.array(data).reshape(1,-1))
+    print(final_input)
+    output=model.predict(final_input)[0]
+    if output==1:
+        r = "Potable"
+    else:
+        r= "Not Potable"
+    return render_template("home.html",prediction_text="Water Is {}".format(r))
+
+
 if __name__=="__main__":
     app.run(debug=True)
    

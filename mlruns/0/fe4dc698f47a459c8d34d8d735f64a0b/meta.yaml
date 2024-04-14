@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/kotesh%20Reddy/Desktop/mlops/projects/end_to_end_water_potable/water-potability-end-to-end-project/mlruns/0/fe4dc698f47a459c8d34d8d735f64a0b/artifacts
+end_time: 1713087364263
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe4dc698f47a459c8d34d8d735f64a0b
+run_name: mercurial-loon-605
+run_uuid: fe4dc698f47a459c8d34d8d735f64a0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713087363337
+status: 3
+tags: []
+user_id: kotesh Reddy

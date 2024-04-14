@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/kotesh%20Reddy/Desktop/mlops/projects/end_to_end_water_potable/water-potability-end-to-end-project/mlruns/0/c01af171ca574b218c687b4772cfa4d6/artifacts
+end_time: 1713087363318
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c01af171ca574b218c687b4772cfa4d6
+run_name: caring-squirrel-35
+run_uuid: c01af171ca574b218c687b4772cfa4d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713087361955
+status: 3
+tags: []
+user_id: kotesh Reddy
